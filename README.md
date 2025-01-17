@@ -1,3 +1,4 @@
+<div align="center">
 # Medical Image Segmentation Mask Review Tool
 
 This project provides an automated tool for reviewing and verifying segmentation masks used for AI training in medical imaging. It checks for data consistency, mask presence, and volume information. The tool updates a reference Excel file and generates detailed comparison reports.
@@ -6,6 +7,7 @@ This project provides an automated tool for reviewing and verifying segmentation
 [![Downloads Stats][npm-downloads]][npm-url]
 
 ![](../header.png)
+</div>
 
 ## Installation
 
