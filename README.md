@@ -1,6 +1,9 @@
 <div align="center">
   <h1>Medical Image Segmentation Mask Review Tool</h1>
   <p>This project provides an automated tool for reviewing and verifying segmentation masks used for AI training in medical imaging. It checks for data consistency, mask presence, and volume information. The tool updates a reference Excel file and generates detailed comparison reports.</p>
+
+  [<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/release-v0.0.0-ㅎㄱㄷ두?style=flat&logo=google-chrome&logoColor=white" />]() 
+<br/> [<img src="https://img.shields.io/badge/프로젝트 기간2025.01.06 ~ 2025.01.08-fab2ac?style=flat&logo=&logoColor=white" />]()
   
 
   ![](../header.png)
