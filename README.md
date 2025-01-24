@@ -51,7 +51,13 @@ Ensure you have Python 3.8 or newer installed.
 python AI_data_checker.py
 ```
 
+![image](https://github.com/user-attachments/assets/812d426d-0b6f-458d-a496-ea3136f4c49e)
+
+
 This will process the data, update `data.xlsx`, and generate `volume_analysis_results.xlsx` with detailed reports.
+
+![image](https://github.com/user-attachments/assets/5410b0e3-c7fe-49d1-9be6-c924f637091d)
+
 
 More examples and usage details are available in the [Wiki][wiki].
 
